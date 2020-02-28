@@ -33,7 +33,7 @@ You should have at least MATLAB  2015a installed on your computer.
 2. The code runs the entire 3D volume of the input image. However, in some cases you may wish to run a subvolume of the 3D image by specifying the x, y and z minimum and maximum voxel values of the variable ***“I”*** under the **fun_Read2DStack.m** file. In cases where you choose to for instance reduce the x and y voxel value, but not the z value, then the minimum and maximum z values should be specified as ***“NaN”***. Please remember, as appropriate, to comment or uncomment the line of code with volume reduction under the **fun_Read2DStack.m** file.
 
 ## Citation
-If you use our code for your research please cite the following relevant literature:
+If you use our code for your research, please cite the following relevant literature:
 ```
 @article{https://doi.org/10.1016/j.cageo.2020.104425, 
 author = {Ibekwe, A., Pokrajac, D., and Tanino, Y.},
