@@ -1,4 +1,4 @@
-# In-Situ-Contact-Angle-Extraction
+# In-situ-Contact-Angle-Extraction
 Automatic extraction of *in situ* contact angles from 2D and 3D pore space images
 
 ### Summary
