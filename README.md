@@ -34,6 +34,7 @@ You should have at least MATLAB  2015a installed on your computer.
 
 ## Citation
 If you use our code for your research, please cite the following relevant literature:
+The developed algorithm for in-situ contact angle extraction
 ```
 @article{https://doi.org/10.1016/j.cageo.2020.104425, 
 author = {Ibekwe, A., Pokrajac, D., and Tanino, Y.},
@@ -43,4 +44,17 @@ volume = {137},
 number = {104425},
 pages = {1--12},
 keywords = {Contact angle, Wettability, Micro-CT, Tomography, multiphase flow, Pore scale imaging},
+```
+The actual code
+```
+@software{ibekwe_a_2020_3709319,
+  author       = {Ibekwe, A., Pokrajac, D., and Tanino, Y.},
+  title        = {{AnelechiIbekwe/In-situ-Contact-Angle-Extraction: 2D and 3D Images}},
+  month        = mar,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.3709319},
+  url          = {https://doi.org/10.5281/zenodo.3709319}
+}
 ```
