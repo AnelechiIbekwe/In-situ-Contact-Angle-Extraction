@@ -37,13 +37,13 @@ If you use our code for your research, please cite the following relevant litera
 The developed algorithm for in-situ contact angle extraction
 ```
 @article{https://doi.org/10.1016/j.cageo.2020.104425, 
-author = {Ibekwe, A., Pokrajac, D., and Tanino, Y.},
-title = {Automated extraction of in situ contact angles from micro-computed tomography images of porous media},
-journal = {Computers & Geosciences},
-volume = {137},
-number = {104425},
-pages = {1--12},
-keywords = {Contact angle, Wettability, Micro-CT, Tomography, multiphase flow, Pore scale imaging},
+author         = {Ibekwe, A., Pokrajac, D., and Tanino, Y.},
+title          = {Automated extraction of in situ contact angles from micro-computed tomography images of porous media},
+journal        = {Computers & Geosciences},
+volume         = {137},
+number         = {104425},
+pages          = {1--12},
+keywords       = {Contact angle, Wettability, Micro-CT, Tomography, multiphase flow, Pore scale imaging},
 ```
 The actual code
 ```
