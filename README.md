@@ -49,7 +49,7 @@ The actual code
 ```
 @software{ibekwe_a_2020_3709319,
   author       = {Ibekwe, A., Pokrajac, D., and Tanino, Y.},
-  title        = {{AnelechiIbekwe/In-situ-Contact-Angle-Extraction: 2D and 3D Images}},
+  title        = {MATLAB script for extracting in situ contact angles from 2D and 3D images},
   month        = mar,
   year         = 2020,
   publisher    = {Zenodo},
