@@ -45,16 +45,3 @@ number         = {104425},
 pages          = {1--12},
 keywords       = {Contact angle, Wettability, Micro-CT, Tomography, multiphase flow, Pore scale imaging},
 ```
-The actual code
-```
-@software{ibekwe_a_2020_3709319,
-  author       = {Ibekwe, A., Pokrajac, D., and Tanino, Y.},
-  title        = {MATLAB script for extracting in situ contact angles from 2D and 3D images},
-  month        = mar,
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.3709319},
-  url          = {https://doi.org/10.5281/zenodo.3709319}
-}
-```
